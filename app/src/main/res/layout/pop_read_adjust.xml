@@ -47,7 +47,7 @@
                 android:textColor="@color/tv_text_default"
                 android:textSize="14sp" />
 
-            <com.monke.monkeybook.widget.checkbox.SmoothCheckBox
+            <com.monke.monkeybook_modify.widget.checkbox.SmoothCheckBox
                 android:id="@+id/scb_follow_sys"
                 android:layout_width="17dp"
                 android:layout_height="17dp"
@@ -118,7 +118,7 @@
                 android:textColor="@color/tv_text_default"
                 android:textSize="14sp" />
 
-            <com.monke.monkeybook.widget.checkbox.SmoothCheckBox
+            <com.monke.monkeybook_modify.widget.checkbox.SmoothCheckBox
                 android:id="@+id/scb_tts_follow_sys"
                 android:layout_width="17dp"
                 android:layout_height="17dp"

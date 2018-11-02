@@ -90,7 +90,7 @@
             android:gravity="center_vertical"
             android:text="@string/text_size" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbTextSize"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -104,7 +104,7 @@
             android:text="@string/line_size"
             tools:ignore="RtlHardcoded" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbLineSize"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -118,7 +118,7 @@
             android:text="@string/paragraph_size"
             tools:ignore="RtlHardcoded" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbParagraphSize"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -153,7 +153,7 @@
             android:gravity="center"
             android:text="@string/top" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbPaddingTop"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -167,7 +167,7 @@
             android:text="@string/bottom"
             tools:ignore="RtlHardcoded" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbPaddingBottom"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -181,7 +181,7 @@
             android:text="@string/left"
             tools:ignore="RtlHardcoded" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbPaddingLeft"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -195,7 +195,7 @@
             android:text="@string/right"
             tools:ignore="RtlHardcoded" />
 
-        <com.monke.monkeybook.widget.number.NumberButton
+        <com.monke.monkeybook_modify.widget.number.NumberButton
             android:id="@+id/nbPaddingRight"
             android:layout_width="0dp"
             android:layout_height="match_parent"

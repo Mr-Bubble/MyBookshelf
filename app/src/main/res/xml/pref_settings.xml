@@ -38,7 +38,7 @@
         android:summary="@string/ps_default_read"
         android:title="@string/pt_default_read"/>
 
-    <com.monke.monkeybook.widget.number.NumberPickerPreference
+    <com.monke.monkeybook_modify.widget.number.NumberPickerPreference
         android:defaultValue="6"
         android:key="@string/pk_threads_num"
         android:summary="@string/threads_num"

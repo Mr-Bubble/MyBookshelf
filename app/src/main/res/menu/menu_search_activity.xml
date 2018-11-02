@@ -10,11 +10,20 @@
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/action_my716"
+    android:id="@+id/action_my716"
+    android:checkable="true"
+    android:checked="true"
+    android:icon="@drawable/ic_list_black_24dp"
+    android:title="My716"
+    android:visible="false"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_jjcs"
         android:checkable="true"
         android:checked="true"
         android:icon="@drawable/ic_list_black_24dp"
-        android:title="My716"
+        android:title="九九藏书"
         android:visible="false"
         app:showAsAction="never" />
 
